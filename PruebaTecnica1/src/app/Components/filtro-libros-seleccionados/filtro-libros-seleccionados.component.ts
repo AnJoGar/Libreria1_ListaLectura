@@ -19,6 +19,10 @@ export class FiltroLibrosSeleccionadosComponent {
   }
 
 
+  onGeneroChange1(): void {
+    this.filtroGeneroChange.emit(this.filtroGenero);
+    console.log("Cambio de género:", this.filtroGenero);
+  }
   onGeneroChange(): void {
     this.filtroGeneroChange.emit(this.filtroGenero);
     console.log("Cambio de género:", this.filtroGenero);
