@@ -1,4 +1,4 @@
 [build]
-  command = "CI= npm run build"
+  command = "CI= npm install && npm run build"
   publish = "/opt/build/repo/dist/prueba-tecnica1"
   base = "/opt/build/repo"
