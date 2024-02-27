@@ -1,8 +1,0 @@
-.filtro-libros-container {
-    position: absolute;
-    top: 58px;
-    left: 24px;
-    right: 0;
-    z-index: 1; 
-    color: white;/* Ajusta el índice z según sea necesario */
-  }
