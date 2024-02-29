@@ -13,8 +13,5 @@ export interface ModelBook {
         otherBooks: string[];
       };
 
-
-     
-
     };
   }
