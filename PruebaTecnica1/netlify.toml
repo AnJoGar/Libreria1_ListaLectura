@@ -1,4 +1,4 @@
 [build]
   command = "npm run build"
   publish = "/opt/build/repo/dist/prueba-tecnica1"
-  base = "/opt/build/repo/dist/prueba-tecnica1"
+  base = "/opt/build/repo"
