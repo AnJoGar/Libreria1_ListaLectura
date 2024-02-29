@@ -1,4 +1,4 @@
 [build]
-  command = "ng build"
+  command = "npm build run"
   publish = "/opt/build/repo/dist/prueba-tecnica1" 
   base = "/opt/build/repo"
