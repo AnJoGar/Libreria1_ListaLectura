@@ -1,3 +1,3 @@
 [build]
   command = "ng build --prod"
-  publish = "/opt/build/repo/dist/prueba-tecnica1"
+  publish = "dist/prueba-tecnica1"
